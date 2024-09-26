@@ -1,0 +1,13 @@
+.element-pagination{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+}
+.element-pagination>button{
+   border: none;
+    background-color: inherit;
+border-radius: 20px;
+
+}
