@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/DesafioPokemon/static/css/main.0753f8e2.css",
-    "main.js": "/DesafioPokemon/static/js/main.41650eaa.js",
+    "main.css": "/DesafioPokemon/static/css/main.32f242b8.css",
+    "main.js": "/DesafioPokemon/static/js/main.cfb8c48c.js",
     "index.html": "/DesafioPokemon/index.html",
-    "main.0753f8e2.css.map": "/DesafioPokemon/static/css/main.0753f8e2.css.map",
-    "main.41650eaa.js.map": "/DesafioPokemon/static/js/main.41650eaa.js.map"
+    "main.32f242b8.css.map": "/DesafioPokemon/static/css/main.32f242b8.css.map",
+    "main.cfb8c48c.js.map": "/DesafioPokemon/static/js/main.cfb8c48c.js.map"
   },
   "entrypoints": [
-    "static/css/main.0753f8e2.css",
-    "static/js/main.41650eaa.js"
+    "static/css/main.32f242b8.css",
+    "static/js/main.cfb8c48c.js"
   ]
 }
