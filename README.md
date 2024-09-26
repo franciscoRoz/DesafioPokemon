@@ -6,16 +6,23 @@ proyecto realizado para la vista de pokemones junto con su descripcion y crear l
 
 Este proyecto está construido con las siguientes tecnologías:
 
-- **React**: `^18.3.1`
-- **Redux**: `^5.0.1` y **@reduxjs/toolkit**: `^2.2.7`
-- **React Router**: `^6.26.2`
-- **Axios**: `^1.7.7`
-- **Chart.js**: `^4.4.4` y **React Chart.js 2**: `^5.2.0`
-- **Testing Library**: 
-  - **@testing-library/react**: `^13.4.0`
-  - **@testing-library/jest-dom**: `^5.17.0`
-  - **@testing-library/user-event**: `^13.5.0`
-- **React Scripts**: `5.0.1`
+- **React**: ^18.3.1
+- **React DOM**: ^18.3.1
+- **Redux**: ^5.0.1 y **@reduxjs/toolkit**: ^2.2.7
+- **React Redux**: ^9.1.2
+- **React Router**: ^6.26.2
+- **React Scripts**: 5.0.1
+- **Axios**: ^1.7.7
+- **Chart.js**: ^4.4.4 y **React Chart.js 2**: ^5.2.0
+- **Testing Library**:
+  - **@testing-library/react**: ^13.4.0
+  - **@testing-library/jest-dom**: ^5.17.0
+  - **@testing-library/user-event**: ^13.5.0
+- **@types/jest**: ^29.5.13
+- **gh-pages**: ^6.1.1
+- **jest-environment-jsdom**: ^29.7.0
+- **web-vitals**: ^2.1.4
+- **whatwg-fetch**: ^3.6.20
 
 ## Requisitos Previos
 
