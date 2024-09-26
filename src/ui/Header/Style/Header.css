@@ -1,0 +1,36 @@
+.block-header {
+    height: 70px;
+    border-bottom: 1px solid #282c34;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #514679;
+}
+
+.modifier-icon{
+    margin-left: 10px;
+    filter: invert(100%);
+}
+.modifier-theme{
+    color: white;
+}
+.modifier-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.element-nav{
+    cursor: pointer;
+    color: white;
+    display: flex;
+    flex-direction: row;
+}
+.element-theme{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    padding-right: 10px;
+}
+
