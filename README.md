@@ -36,9 +36,9 @@ Asegúrate de tener instaladas las siguientes herramientas:
 
    ```bash
 
-    git clone [ruta]
+    git clone https://github.com/franciscoRoz/DesafioPokemon.git
 
-    cd [carpeta]
+    cd DesafioPokemon
 
     npm install 
    ```
