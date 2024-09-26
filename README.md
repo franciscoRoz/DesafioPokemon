@@ -61,12 +61,5 @@ utils/: Funciones reutilizables por el resto de componentes.
    npm test
  ```
 
-## Despliegue
- Clona este repositorio:
 
-   ```bash
-
-   npm run build
-
-    ```
 
