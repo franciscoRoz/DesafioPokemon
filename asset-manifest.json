@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MatriFran-Nico/static/css/main.0753f8e2.css",
+    "main.js": "/MatriFran-Nico/static/js/main.f15aad07.js",
+    "index.html": "/MatriFran-Nico/index.html",
+    "main.0753f8e2.css.map": "/MatriFran-Nico/static/css/main.0753f8e2.css.map",
+    "main.f15aad07.js.map": "/MatriFran-Nico/static/js/main.f15aad07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0753f8e2.css",
+    "static/js/main.f15aad07.js"
+  ]
+}
